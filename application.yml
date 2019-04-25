@@ -1,5 +1,0 @@
-server:
-  port: 62000
-
-foo:
-  db: hello
