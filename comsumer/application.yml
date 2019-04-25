@@ -1,0 +1,4 @@
+server:
+        port: 7788
+foo:
+        db: spring-cloud-db
